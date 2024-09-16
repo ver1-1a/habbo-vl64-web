@@ -1,2 +1,3 @@
-# habbo-vl64-web
-web based vl64 encoder &amp; decoder
+# VL64 Encoder/Decoder
+
+A web form for encoding and decoding VL64.
